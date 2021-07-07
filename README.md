@@ -1,7 +1,10 @@
 ### Projeto Labefy
 
 ### Sobre
-Projeto de gerenciamento básico de playlist de músicas.
+Projeto de gerenciamento básico de playlist de músicas. <br>
+Link do projeto original - <a href="https://github.com/future4code/Pedro-Barbosa/tree/master/semana7/projeto-labefy">https://github.com/future4code/Pedro-Barbosa/tree/master/semana7/projeto-labefy</a> 
+
+
 
 Dev: @IELSK - Pedro Rodrigues
 
